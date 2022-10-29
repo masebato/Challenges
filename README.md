@@ -1,3 +1,3 @@
 # Challenges
 
-Some problems that Hackerrank
+Some problems resolves of Hackerrank
